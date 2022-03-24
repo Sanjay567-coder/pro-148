@@ -1,1 +1,3 @@
 # pro-149
+
+For seeing the output go to the "Output Images" folder....
